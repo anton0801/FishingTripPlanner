@@ -271,6 +271,7 @@
 				CODE_SIGN_ENTITLEMENTS = FishingTripPlanner/FishingTripPlanner.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Fishing Trip Planner";
@@ -311,6 +312,7 @@
 				CODE_SIGN_ENTITLEMENTS = FishingTripPlanner/FishingTripPlanner.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Fishing Trip Planner";
