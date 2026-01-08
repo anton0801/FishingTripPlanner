@@ -14,7 +14,7 @@ workflows:
         APP_STORE_APPLE_ID: 6757081467
         BUNDLE_ID: "com.plannersappsfish.FishingTripPlanner"
         XCODE_PROJECT: "FishingTripPlan.xcodeproj"
-        XCODE_SCHEME: "FishingTripPlanner"
+        XCODE_SCHEME: "FishingTripPlan"
     scripts:
       - name: Clean and Resolve SPM Dependencies
         script: |
