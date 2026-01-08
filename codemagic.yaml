@@ -4,13 +4,13 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
-      app_store_connect: fishing_trip_planner
+      app_store_connect: fishing_trip_planner_key
     environment:
       ios_signing:
         distribution_type: app_store
         bundle_identifier: com.plannersappsfish.FishingTripPlanner
       vars:
-        APP_STORE_CONNECT_KEY: fishing_trip_planner
+        APP_STORE_CONNECT_KEY: fishing_trip_planner_key
         APP_STORE_APPLE_ID: 6757081467
         BUNDLE_ID: "com.plannersappsfish.FishingTripPlanner"
         XCODE_PROJECT: "FishingTripPlanner.xcodeproj"
