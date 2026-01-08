@@ -13,7 +13,7 @@ workflows:
         APP_STORE_CONNECT_KEY: fishing_trip_planner_key
         APP_STORE_APPLE_ID: 6757081467
         BUNDLE_ID: "com.plannersappsfish.FishingTripPlanner"
-        XCODE_PROJECT: "FishingTripPlanner.xcodeproj"
+        XCODE_PROJECT: "FishingTripPlan.xcodeproj"
         XCODE_SCHEME: "FishingTripPlanner"
     scripts:
       - name: Clean and Resolve SPM Dependencies

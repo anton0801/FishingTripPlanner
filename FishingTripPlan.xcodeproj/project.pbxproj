@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8FD373722EF1AA32009D7590 /* FishingTripPlanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FishingTripPlanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FD373722EF1AA32009D7590 /* FishingTripPlan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FishingTripPlan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8FD3739E2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "FishingTripPlanner" target */ = {
+		8FD3739E2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "FishingTripPlan" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				View/TripResultsView.swift,
 			);
-			target = 8FD373712EF1AA32009D7590 /* FishingTripPlanner */;
+			target = 8FD373712EF1AA32009D7590 /* FishingTripPlan */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		8FD3739F2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "Copy Bundle Resources" phase from "FishingTripPlanner" target */ = {
+		8FD3739F2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "Copy Bundle Resources" phase from "FishingTripPlan" target */ = {
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			buildPhase = 8FD373702EF1AA32009D7590 /* Resources */;
 			membershipExceptions = (
@@ -34,8 +34,8 @@
 		8FD373742EF1AA32009D7590 /* FishingTripPlanner */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				8FD3739E2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "FishingTripPlanner" target */,
-				8FD3739F2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "Copy Bundle Resources" phase from "FishingTripPlanner" target */,
+				8FD3739E2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "FishingTripPlan" target */,
+				8FD3739F2EF1ABBF009D7590 /* Exceptions for "FishingTripPlanner" folder in "Copy Bundle Resources" phase from "FishingTripPlan" target */,
 			);
 			path = FishingTripPlanner;
 			sourceTree = "<group>";
@@ -64,7 +64,7 @@
 		8FD373732EF1AA32009D7590 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8FD373722EF1AA32009D7590 /* FishingTripPlanner.app */,
+				8FD373722EF1AA32009D7590 /* FishingTripPlan.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8FD373712EF1AA32009D7590 /* FishingTripPlanner */ = {
+		8FD373712EF1AA32009D7590 /* FishingTripPlan */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8FD3737E2EF1AA33009D7590 /* Build configuration list for PBXNativeTarget "FishingTripPlanner" */;
+			buildConfigurationList = 8FD3737E2EF1AA33009D7590 /* Build configuration list for PBXNativeTarget "FishingTripPlan" */;
 			buildPhases = (
 				8FD3736E2EF1AA32009D7590 /* Sources */,
 				8FD3736F2EF1AA32009D7590 /* Frameworks */,
@@ -87,11 +87,11 @@
 			fileSystemSynchronizedGroups = (
 				8FD373742EF1AA32009D7590 /* FishingTripPlanner */,
 			);
-			name = FishingTripPlanner;
+			name = FishingTripPlan;
 			packageProductDependencies = (
 			);
 			productName = FishingTripPlanner;
-			productReference = 8FD373722EF1AA32009D7590 /* FishingTripPlanner.app */;
+			productReference = 8FD373722EF1AA32009D7590 /* FishingTripPlan.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8FD3736D2EF1AA32009D7590 /* Build configuration list for PBXProject "FishingTripPlanner" */;
+			buildConfigurationList = 8FD3736D2EF1AA32009D7590 /* Build configuration list for PBXProject "FishingTripPlan" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8FD373712EF1AA32009D7590 /* FishingTripPlanner */,
+				8FD373712EF1AA32009D7590 /* FishingTripPlan */,
 			);
 		};
 /* End PBXProject section */
@@ -352,7 +352,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8FD3736D2EF1AA32009D7590 /* Build configuration list for PBXProject "FishingTripPlanner" */ = {
+		8FD3736D2EF1AA32009D7590 /* Build configuration list for PBXProject "FishingTripPlan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8FD3737C2EF1AA33009D7590 /* Debug */,
@@ -361,7 +361,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8FD3737E2EF1AA33009D7590 /* Build configuration list for PBXNativeTarget "FishingTripPlanner" */ = {
+		8FD3737E2EF1AA33009D7590 /* Build configuration list for PBXNativeTarget "FishingTripPlan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8FD3737F2EF1AA33009D7590 /* Debug */,
